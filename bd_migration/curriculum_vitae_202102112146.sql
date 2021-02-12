@@ -1,0 +1,1 @@
+INSERT INTO public.curriculum_vitae (id_personal_information) VALUES (1);
