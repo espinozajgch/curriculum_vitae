@@ -1,13 +1,15 @@
 ### API REST PERSONAL CV
 
-####Running Unit Tests With Maven
+#### Running Unit Tests With Maven
+
 You can run unit tests by using the following command:
 > `mvn clean test`
 
 To run unit tests during build and package the application we need to use `maven-surefire-plugin`
 The Surefire Plugin is used during the test phase of the build lifecycle to execute the unit tests of an application.
 
-####The Spring Boot Maven Plugin provides Spring Boot support in Apache Maven. It allows you to package executable jar or war archives,run Spring Boot applications, generate build information and start your Spring Boot application prior to running integration tests.
+#### The Spring Boot Maven Plugin provides Spring Boot support in Apache Maven. It allows you to package executable jar or war archives,run Spring Boot applications, generate build information and start your Spring Boot application prior to running integration tests.
+    
     <build>
 		<plugins>
 			<plugin>
