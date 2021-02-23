@@ -28,4 +28,4 @@ Here, we first clean-up our previous builds before packaging the application. In
 Let's run our Spring Boot application and PostgreSQL with Docker Compose:
 > `docker-compose up`
 
-###built with java 1.8 and maven 3.6.3
+### built with java 1.8 and maven 3.6.3
